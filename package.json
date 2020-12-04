@@ -19,6 +19,8 @@
   "homepage": "https://github.com/analacaze/MyWallet-BackEnd#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "supertest": "^6.0.1"
   }
 }
